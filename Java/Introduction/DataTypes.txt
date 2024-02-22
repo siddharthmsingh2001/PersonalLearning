@@ -1,0 +1,16 @@
+- In Java we have 4 main/Primitive data types:
+-Unlike python where everything is object even datatypes, in Java we do have primitive data types
+->Integral (byte, short, int, long)
+->Floating (float, double)
+->Char
+->Boolean
+- Each type differs by size
+-> byte takes 1 byte
+-> char takes 2 byte
+-> int takes 4 byte
+-> float takes 4 byte
+
+- Variables are containers in which we store data in Java these data are Primitive data types or objects
+- For primitive data types we have:
+-> byte b; //Decleration
+-> byte b =5; //Initialization with a literal(here 5 is a integer literal: Constants are called as Literals)
