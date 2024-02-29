@@ -3,11 +3,11 @@ package Basics;
 class PrintingClass{
     public static void main(String[] args) {
         int a = 10;
-        int b = 5;
+        float b = 5.0f;
         System.out.println("Sum of " +a+" + " + b+ " is: " + (a+b));
+        System.out.printf("int: %d, float %f\n", a,b);
     }
 }
-
 
 //Understaing the printing statement
 /*
